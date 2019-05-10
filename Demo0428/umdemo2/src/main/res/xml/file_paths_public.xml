@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--&lt;!&ndash;对应内部内存卡根目录：Context.getFileDir()&ndash;&gt;-->
+    <!--<files-path-->
+    <!--name="root"-->
+    <!--path="/"/>-->
+    <!--&lt;!&ndash;对应应用默认缓存根目录：Context.getCacheDir()&ndash;&gt;-->
+    <!--<cache-path-->
+    <!--name="cache"-->
+    <!--path="/cache"/>-->
+    <!--&lt;!&ndash;对应外部内存卡根目录：Environment.getExternalStorageDirectory()&ndash;&gt;-->
+    <external-path
+            name="my_images" path="/"/>
+
+
+</paths>
